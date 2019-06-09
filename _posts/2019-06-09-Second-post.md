@@ -20,7 +20,7 @@ It only felt so intangible. I always asked myself "what am I doing?", or "Is thi
 Since the "intangible-ness" or "abstractness" was a big problem for me, this time I set my goal differently when I started out learning again.
 
 '''
-don't be limited learning theories \n
+don't be limited learning theories
 make something practical and useful in real life
 '''
 
