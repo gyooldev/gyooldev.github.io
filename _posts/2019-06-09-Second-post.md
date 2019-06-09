@@ -1,3 +1,9 @@
+---
+title: "start of my raspberry pi project"
+date: 2019-06-09 16:44:00-0400
+categories: raspberrypi
+---
+
 As a person who has already failed two times learning "coding", 
 I thought this time, it's gonna be my one and last time trying to learn programming.
 And finally, I'm starting to find programming interesting. 
